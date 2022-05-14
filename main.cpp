@@ -15,9 +15,9 @@ class dosen {
 };
 
 void dosen::input(){
-	cout<<"======================================="<<endl;
+	cout<<"========================================="<<endl;
 	cout<<"STUDI KASUS 6 : Penginputan Nilai "<<endl;
-	cout<<"======================================="<<endl;
+	cout<<"========================================="<<endl;
 	cout<<"Masukkan Nama Mata Kuliah : ";cin>>matkul;
 	cout<<"Masukkan Nama Dosen       : ";cin>>nama;
 	cout<<"Masukkan berapa banyak nilai : ";cin>>n;
